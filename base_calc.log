@@ -1,0 +1,13 @@
+base_calc  /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/SLC_tab /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/rslc/20170808.rslc.par /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/bperp_tab /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/itab_sb 1 1 0 400 0 365 None
+
+/local-scratch/common/sarlab-env/gamma_common/GAMMA_SOFTWARE-20190613/DIFF/scripts/base_calc processing started: Tue Nov  1 12:51:51 2022 
+reference SLC parameter file: /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/rslc/20170808.rslc.par
+bperp text file:  /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/bperp_tab
+output ITAB file: /local-scratch/users/aplourde/RS2/HDS/projects/southern_ITH/RS2_U76_D/full_scene_summer/itab_sb
+
+ITAB generation mode: all possible pairs
+minimum bperp magnitude (m): 0
+maximum bperp magnitude (m): 400
+minimum delta_T (days): 0
+maximum delta_T (days): 365
+maximum delta_n: None
